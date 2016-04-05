@@ -1,2 +1,4 @@
 # hello-world
-Just another respository
+Hi,
+
+This is Rick.
